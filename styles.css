@@ -28,3 +28,7 @@ body {
     box-shadow: 0 0 2px black;
     transition: 2s ease;
 }
+
+.square:hover {
+    transition-duration: 0s;
+}
